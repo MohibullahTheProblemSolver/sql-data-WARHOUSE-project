@@ -43,6 +43,5 @@ You are free to use, modify, and share with attribution.
 
 ## 👤 About
 Hi! I'm ***Muhammad Mohibullah*** ***(data analyst)***. 
-I'm passionate about business and analytics. I want to make your business
-growing.
-
+I'm passionate about business and analytics. It will be my pleasure if I make any contributition to 
+a business with proper strategy and decision making through analysis.
