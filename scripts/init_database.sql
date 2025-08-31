@@ -5,7 +5,7 @@ CREATE DATABASE AND SCHEMA
 
 ===========================================================================
 Script Purpose:
-This script creates DataBase named 'DataWarHouse'
+This script creates  a new DataBase named 'DataWarHouse'
 IF there any similiar named DataBases available 
 then this script will DROP the database and recreate a new DataBase.
 
