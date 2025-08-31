@@ -15,7 +15,7 @@ ADDITIONALLY, This Script has three Schemas : 'bronze', 'silver', 'gold'
 ===========================================================================
 Warning:
 This Script will permanently delete all DataBases named 'DataWarHouse' if it exist.
-So, before Running this script ensure you have proper backups
+So, before Running this script ensure that you have proper backups
 
 ===========================================================================
 */
