@@ -12,7 +12,8 @@ It highlights **best practices in Data Engineering & Data Analytics**.
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-<img width="1441" height="851" alt="image" src="https://github.com/user-attachments/assets/637b6ce4-0604-41f0-bed8-2eed756aa67b" />
+<img width="1350" height="860" alt="image" src="https://github.com/user-attachments/assets/8a98fba7-33ea-4e4a-ab92-be7c409468d3" />
+
 
 
 
